@@ -1,6 +1,12 @@
-# MyCrappyCode
-My Crappy Code
+# Angular
 
-What can you see here?
-Well, just codes full of crap but, could be helpful!
+### installation
 
+```
+npm install -g @angular/cli
+ng help
+ng generate --help
+ng new my-first-project
+cd my-first-project
+ng serve
+```

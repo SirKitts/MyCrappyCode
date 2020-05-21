@@ -1,6 +1,9 @@
-# MyCrappyCode
-My Crappy Code
+# Vue
+Commonly used commands
 
-What can you see here?
-Well, just codes full of crap but, could be helpful!
-
+```
+npm install vue --save
+npm install --global vue-cli
+vue init webpack my-project
+npm run dev
+```

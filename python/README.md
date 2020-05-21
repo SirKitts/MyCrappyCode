@@ -1,6 +1,6 @@
-# MyCrappyCode
-My Crappy Code
+# Python
+Commonly used commands
 
-What can you see here?
-Well, just codes full of crap but, could be helpful!
-
+```
+python -V
+```

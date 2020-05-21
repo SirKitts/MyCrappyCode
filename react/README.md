@@ -1,6 +1,9 @@
-# MyCrappyCode
-My Crappy Code
+# React
 
-What can you see here?
-Well, just codes full of crap but, could be helpful!
+```
+npm install -g create-react-app
+npx create-react-app myfirstreact
+cd myfirstreact
+npm start
+```
 
