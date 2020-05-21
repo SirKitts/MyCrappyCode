@@ -19,3 +19,7 @@ mvn clean install
 ```
 jar -xvf rest-service-0.0.1-SNAPSHOT.jar
 ```
+./mvn spring-boot:run
+
+mvn clean install
+```
