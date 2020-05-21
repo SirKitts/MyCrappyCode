@@ -1,5 +1,11 @@
 # node-red
 
+### installation
+```
+sudo npm install -g --unsafe-perm node-red
+npm install node-red-dashboard
+```
+
 ```
 cd ~/.node-red
 nano settings.js

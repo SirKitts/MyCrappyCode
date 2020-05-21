@@ -1,4 +1,4 @@
-# Tomcat
+# TOMCAT
 
 ```
 brew services start tomcat

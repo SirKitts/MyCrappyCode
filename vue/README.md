@@ -1,5 +1,6 @@
-# Vue
-Commonly used commands
+# VUE
+
+### Installation
 
 ```
 npm install vue --save
