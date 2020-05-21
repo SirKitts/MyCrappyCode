@@ -10,5 +10,7 @@ java HelloWorld
 
 java hello.jar
 
+./mvn spring-boot:run
+
 mvn clean install
 ```
