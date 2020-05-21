@@ -2,6 +2,11 @@
 Commonly used command
 
 ```
+git config --global user.name "UserName"
+git config --global user.email your@email
+```
+
+```
 git clone git@github.com:SirKitts/MyCrappyCode.git 
 ```
 
@@ -9,7 +14,7 @@ git clone git@github.com:SirKitts/MyCrappyCode.git
 git checkout -b develop
 git branch
 git status
-git branh -d name-of-branch
+git branch -d name-of-branch
 git reset --hard origin develop
 ```
 
