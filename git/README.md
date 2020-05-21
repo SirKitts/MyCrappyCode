@@ -4,6 +4,7 @@ Commonly used command
 ```
 git config --global user.name "UserName"
 git config --global user.email your@email
+git commit --amend --reset-author
 ```
 
 ```
