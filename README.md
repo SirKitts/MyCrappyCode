@@ -5,8 +5,6 @@ What can you see here?
 Well, just codes full of crap but, could be helpful!
 
 ### Check Versions
-For FULLSTACK Developers you should have at least installed the following:
-
 ```
 CLOUD
 aws help
@@ -34,8 +32,10 @@ mvn -version
 git --version
 ```
 
-Run `brew services list`
 ```
+Run `brew services list`
+
+The following should be displayed:
 elasticsearch
 jenkins-lts
 kafka

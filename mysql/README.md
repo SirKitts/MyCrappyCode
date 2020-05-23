@@ -1,6 +1,7 @@
 # MySQL
-Ooops! I still working on it.
 
-What can you see here?
-Well, just codes full of crap but, could be helpful!
+### Installation
+Download and Install MySQL
 
+### References
+https://dev.mysql.com/doc/refman/5.7/en/installing.html

@@ -1,5 +1,6 @@
 class HelloWorld {
    int x = 100; 
+   int y = 100; 
 	
    public int getX() { 
       this.x = 200; 
@@ -7,8 +8,8 @@ class HelloWorld {
    }
 
    public int getY() {
-      this.x = 200;
-      return x;
+      this.y = 200;
+      return y;
    }
 
    static void sum(int a,int b) {

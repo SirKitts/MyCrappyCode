@@ -1,6 +1,10 @@
 # Arduino
-Ooops! I still working on it.
 
-What can you see here?
-Well, just codes full of crap but, could be helpful!
+### Installation
 
+Download the zip file at `https://www.arduino.cc/en/Guide/MacOSX`
+Unzip the double slick the application
+Connect the arduino and mac via USB
+
+### References
+https://www.arduino.cc/en/Guide/MacOSX

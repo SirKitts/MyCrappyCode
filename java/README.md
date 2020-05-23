@@ -1,28 +1,37 @@
 # Java
-Commonly used commands
+
+### Installation
+Download and install java at `https://java.com/en/download/`
+Download and install maven at `https://maven.apache.org/install.html`
 
 ```
 java -version
 mvn -version
+```
+
+### Commonly used commands
+```
+Compiling
 
 javac HelloWorld.java
-java HelloWorld
+mvn clean install
+mvn clean package
+```
 
+```
+Running
+
+java HelloWorld
 java hello.jar
 
-mvn spring-boot:run
-mvn spring-boot:run -Dprofiles=default,demo
-
-mvn clean install
+./mvn spring-boot:run
+./mvn spring-boot:run -Dprofiles=default,demo
 ```
 
 ```
 jar -xvf rest-service-0.0.1-SNAPSHOT.jar
 ```
-./mvn spring-boot:run
 
-mvn clean install
-```
-
-### Reference
+### References
+https://java.com/en/download/
 https://www.tutorialspoint.com/java/java_object_classes.htm
