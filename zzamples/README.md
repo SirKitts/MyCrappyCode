@@ -1,4 +1,4 @@
-# Zamples
+# Zzamples
 
 ### Common sample commands that can be used
 
