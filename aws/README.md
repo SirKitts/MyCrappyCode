@@ -66,5 +66,7 @@ You might also append `--profile` in the command line
 ```
 
 ### References
+```
 https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html
 https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html#install-macosos-bundled
+```

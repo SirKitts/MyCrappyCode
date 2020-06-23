@@ -13,6 +13,8 @@ brew upgrade jenkins-lts
 ```
 
 ### References
+```
 https://www.jenkins.io/download/
 https://www.jenkins.io/doc/book/installing/
 https://www.jenkins.io/download/lts/macos/
+```

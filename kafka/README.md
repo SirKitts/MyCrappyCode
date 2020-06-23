@@ -41,5 +41,7 @@ kafka-console-consumer --bootstrap-server localhost:9092 --topic test --from-beg
 ```
 
 ### References
+```
 https://www.tutorialspoint.com/apache_kafka/index.htm
 https://www.javatpoint.com/apache-kafka
+```

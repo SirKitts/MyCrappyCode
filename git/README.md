@@ -41,5 +41,7 @@ git reset --hard origin develop
 ```
 
 ### Reference
+```
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 https://git-scm.com/docs/git-reset
+```
