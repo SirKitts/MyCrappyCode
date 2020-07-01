@@ -5,7 +5,6 @@ Download and install java at `https://java.com/en/download/`\
 Download and install maven at `https://maven.apache.org/install.html`
 
 ```
-```
 java -version
 mvn -version
 ```
