@@ -1,3 +1,10 @@
+<?
+/*
+* Instructions:
+*   Please copy this file in the localhost directory and in the browser call that directory
+*/
+?>
+
 <?php
 /*
 * Task A: Create a function that will generate a random hand of 5 standard playing cards.
@@ -88,11 +95,18 @@ function taskB( $cards ) {
   }
   return isStraightOrStraightFlush( $suits_array, $cards_array ) ? true : false;
 }
+
+echo '<p/>'.'Is it a Straight or Straigh Flash? ';
+echo (taskB( $hands_of_cards ) ? 'Yes' : 'No');
 // End here.
- 
+
 /*
-* testing Only
+* --------------------------------
+* or testing only.
+* uncomment to test if it's working.
+* --------------------------------
 */
+/*
 function testActual() {
   echo '<p/>'.'Is it a Straight or Straigh Flash? ';
   echo (taskB( $hands_of_cards ) ? 'Yes' : 'No');
@@ -126,10 +140,9 @@ function testStraightFlushAce() {
   echo (taskB( $hand ) ? 'Yes' : 'No');
 }
 
-testActual();
-echo '<hr/>For Testing Only ';
 testNonStraight();
 testStraight();
 testStraightAce();
 testStraightFlushAce();
+*/
 ?>
